@@ -1,0 +1,128 @@
+ESP Slug,GCAM Indicator name,Stackable sub-category?,Standardized Unit,Unit of Entry,Conversion factor,Definition
+Emissions|CO2 by sector|industry ,Emissions|CO2|Fossil Fuels and Industry|Energy Demand|Industry,yes,Mt CO2e/yr,Mt CO2e/yr,,"carbon dioxide emissions from the industrial sector, including feedstocks, including agriculture and fishing"
+Emissions|CO2 by sector|transport,Emissions|CO2|Fossil Fuels and Industry|Energy Demand|Transportation,yes,Mt CO2e/yr,Mt CO2e/yr,,carbon dioxide emissions from the transportation sector and bunker fuels (excluding pipelines)
+Emissions|CO2 by sector|electricity,Emissions|CO2|Fossil Fuels and Industry|Energy Supply|Electricity,yes,Mt CO2e/yr,Mt CO2e/yr,,carbon dioxide emissions from electric power generation
+Emissions|CO2 by sector|Non-electricity energy supply,{Emissions|CO2|Fossil Fuels and Industry|Energy Supply} - {Emissions|CO2|Fossil Fuels and Industry|Energy Supply|Electricity},yes,Mt CO2e/yr,Mt CO2e/yr,,"carbon dioxide emissions from heat generation, other energy conversion (e.g. refineries, synfuel production), resource extration and energy transmission and distribution (e.g. gas pipelines) (excludes electricity)"
+Emissions|CO2 by sector|buildings ,Emissions|CO2|Fossil Fuels and Industry|Energy Demand|Residential and Commercial,yes,Mt CO2e/yr,Mt CO2e/yr,,carbon dioxide emissions from the residential & commercial sector
+Emissions|CO2 by sector|land use and forestry,Emissions|CO2|Land Use,yes,Mt CO2e/yr,Mt CO2e/yr,,carbon dioxide emissions from land use and forestry
+Emissions|CO2 by sector|waste,,yes,Mt CO2e/yr,,,
+Emissions|CO2 by sector|,,yes,Mt CO2e/yr,,,
+Emissions|GHG Emissions by gas|CO2,Emissions|CO2,yes,Mt CO2e/yr,Mt CO2/yr,1,"total anthropogenic carbon dioxide emissions, including emissions from fossil fuel combustion, industrial processes and land-use change"
+Emissions|GHG Emissions by gas|CH4,Emissions|CH4,yes,Mt CO2e/yr,Mt CH4/yr,25,total anthropogenic methane emissions
+Emissions|GHG Emissions by gas|N2O,Emissions|N2O,yes,Mt CO2e/yr,kt N2O/yr,298/1000,total anthropogenic nitrous oxide emissions
+Emissions|GHG Emissions by gas|F-gases,Emissions|F-Gases,yes,Mt CO2e/yr,Mt CO2-equiv/yr,1,"total F-gas emissions, including sulfur hexafluoride (SF6), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs) "
+Emissions|Pollutants|PM2.5,,no,thousand metric tons/yr,,,
+Emissions|Pollutants|PM10,,no,thousand metric tons/yr,,,
+Emissions|Pollutants|BC,Emissions|BC,no,thousand metric tons/yr,,,
+Emissions|Pollutants|CO,Emissions|CO,no,million metric tons/yr,,,
+Emissions|Pollutants|OC,Emissions|OC,no,thousand metric tons/yr,,,
+Emissions|Pollutants|Nox,Emissions|NOx,no,million metric tons/yr,,,
+Emissions|Pollutants|Sulfur,Emissions|Sulfur,no,million metric tons/yr,,,
+Emissions|Pollutants|VOC,,no,thousand metric tons/yr,,,
+Climate and Health impacts|Global Warming,Temperature|Global Mean,no,degree C,,,mean global temperature change relative to pre-industrial levels
+Climate and Health impacts|Radiative Forcing,,no,W/m^2,,,
+Climate and Health impacts|Total Sea-level Rise,,no,cm,,,
+Climate and Health impacts|Annual Sea-level Rise,,no,cm/yr,,,
+Climate and Health impacts|CO2 concentration,,no,ppm,,,
+Climate and Health impacts|Monetized health impacts,,no,$US,,,Monetized health impacts relative to reference scenario
+Climate and Health impacts|lives saved from reduced particle pollution,,no,lives/yr,,,
+Population and Economy|Population,Population,no,Millions,,,total population
+Population and Economy|Population by educational level|<fill in educational levels>,,yes,Millions,,,
+Population and Economy|Population by educational level|<fill in educational levels>,,yes,Millions,,,
+Population and Economy|Population by income|<fill in income levels>,,yes,Millions,,,
+Population and Economy|Population by income|<fill in income levels>,,yes,Millions,,,
+Population and Economy|Population by age|<fill in age groups>,,yes,Millions,,,
+Population and Economy|Population by age|<fill in age groups>,,yes,Millions,,,
+Population and Economy|GDP PPP,,no,billion 2016 $US/yr,,,
+Population and Economy|GDP MER,GDP|MER,no,billion 2016 $US/yr,billion US$2005/yr,1.23,GDP at market exchange rate
+Population and Economy|GDP PPP by sector|<fill in sectors>,,yes,billion 2016 $US/yr,,,
+Population and Economy|GDP PPP by sector|<fill in sectors>,,yes,billion 2016 $US/yr,,,
+Population and Economy|GDP PPP by sector|<fill in sectors>,,yes,billion 2016 $US/yr,,,
+Population and Economy|GDP PPP by sector|<fill in sectors>,,yes,billion 2016 $US/yr,,,
+Population and Economy|Net Trade Balance,,no,billion 2016 $US/yr,,,
+Energy|Energy use by sector|Industry,Final Energy|Industry,yes,EJ/yr,,,"final energy consumed by the industrial sector, including feedstocks, including agriculture and fishing"
+Energy|Energy use by sector|Transport,Final Energy|Transportation,yes,EJ/yr,,,"final energy consumed in the transportation sector, including bunker fuels, excluding pipelines"
+Energy|Energy use by sector|Electricity,Final Energy|Electricity,yes,EJ/yr,,,"final energy consumption of electricity (including on-site solar PV), excluding transmission/distribution losses"
+Energy|Energy use by sector|Agriculture,,yes,EJ/yr,,,
+Energy|Energy use by sector|Buildings,Final Energy|Residential and Commercial,yes,EJ/yr,,,final energy consumed in the residential & commercial sector
+Energy|Energy use by sector|Land Use and Forestry,,yes,EJ/yr,,,
+Energy|Energy use by sector|Waste,,yes,EJ/yr,,,
+Energy|Energy use by sector|<fill in sectors>,,yes,EJ/yr,,,
+Energy|Energy use by fuel|Coal w/o CCS,Primary Energy|Coal|w/ CCS,yes,EJ/yr,,,coal primary energy consumption used in combination with CCS
+Energy|Energy use by fuel|Coal w/ CCS,Primary Energy|Coal|w/o CCS,yes,EJ/yr,,,coal primary energy consumption without CCS
+Energy|Energy use by fuel|Gas w/o CCS,Primary Energy|Gas|w/ CCS,yes,EJ/yr,,,gas primary energy consumption used in combination with CCS
+Energy|Energy use by fuel|Gas w/ CCS,Primary Energy|Gas|w/o CCS,yes,EJ/yr,,,gas primary energy consumption without CCS
+Energy|Energy use by fuel|Oil w/o CCS,Primary Energy|Oil|w/ CCS,yes,EJ/yr,,,conventional & unconventional oil primary energy consumption used in combination with CCS
+Energy|Energy use by fuel|Oil w/ CCS,Primary Energy|Oil|w/o CCS,yes,EJ/yr,,,conventional & unconventional oil primary energy consumption without CCS
+Energy|Energy use by fuel|Solar,Primary Energy|Solar,yes,EJ/yr,,,total solar primary energy consumption
+Energy|Energy use by fuel|Wind,Primary Energy|Wind,yes,EJ/yr,,,total wind primary energy consumption
+Energy|Energy use by fuel|Biomass w/ CCS,Primary Energy|Biomass|w/ CCS,yes,EJ/yr,,," used in combination with CCSprimary energy consumption of purpose-grown bioenergy crops, crop and forestry residue bioenergy, municipal solid waste bioenergy, traditional biomass"
+Energy|Energy use by fuel|Biomass w/o CCS,Primary Energy|Biomass|w/o CCS,yes,EJ/yr,,,"primary energy consumption of purpose-grown bioenergy crops, crop and forestry residue bioenergy, municipal solid waste bioenergy, traditional biomass without CCS"
+Energy|Energy use by fuel|Nuclear,Primary Energy|Nuclear,yes,EJ/yr,,,"nuclear primary energy consumption (direct equivalent, includes electricity, heat and hydrogen production from nuclear energy)"
+Energy|Energy use by fuel|Geothermal,Primary Energy|Geothermal,yes,EJ/yr,,,total geothermal primary energy consumption
+Energy|Energy use by fuel|Peat,,yes,EJ/yr,,,
+Energy|Energy use by fuel|Hydro,Primary Energy|Hydro,yes,EJ/yr,,,
+Electricity|Capacity by technology|Coal w/ CCS,,yes,GW,,,
+Electricity|Capacity by technology|Coal w/o CCS,,yes,GW,,,
+Electricity|Capacity by technology|Gas w/ CCS,,yes,GW,,,
+Electricity|Capacity by technology|Gas w/o CCS,,yes,GW,,,
+Electricity|Capacity by technology|Oil w/ CCS,,yes,GW,,,
+Electricity|Capacity by technology|Oil w/o CCS,,yes,GW,,,
+Electricity|Capacity by technology|Solar,,yes,GW,,,
+Electricity|Capacity by technology|Wind,,yes,GW,,,
+Electricity|Capacity by technology|Biomass w/ CCS,,yes,GW,,,
+Electricity|Capacity by technology|Biomass w/o CCS,,yes,GW,,,
+Electricity|Capacity by technology|Nuclear,,yes,GW,,,
+Electricity|Capacity by technology|Geothermal,,yes,GW,,,
+Electricity|Capacity additions by technology|Coal w/ CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Coal w/o CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Gas w/ CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Gas w/o CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Oil w/ CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Oil w/o CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Solar,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Wind,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Biomass w/ CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Biomass w/o CCS,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Nuclear,,yes,GW/yr,,,
+Electricity|Capacity additions by technology|Geothermal,,yes,GW/yr,,,
+Electricity|Generation by technology|Coal w/ CCS,Secondary Energy|Electricity|Coal|w/ CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Coal w/o CCS,Secondary Energy|Electricity|Coal|w/o CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Gas w/ CCS,Secondary Energy|Electricity|Gas|w/ CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Gas w/o CCS,Secondary Energy|Electricity|Gas|w/o CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Oil w/ CCS,Secondary Energy|Electricity|Oil|w/ CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Oil w/o CCS,Secondary Energy|Electricity|Oil|w/o CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Solar,Secondary Energy|Electricity|Solar,yes,EJ/yr,,,
+Electricity|Generation by technology|Wind,Secondary Energy|Electricity|Wind,yes,EJ/yr,,,
+Electricity|Generation by technology|Biomass w/ CCS,Secondary Energy|Electricity|Biomass|w/ CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Biomass w/o CCS,Secondary Energy|Electricity|Biomass|w/o CCS,yes,EJ/yr,,,
+Electricity|Generation by technology|Nuclear,Secondary Energy|Electricity|Nuclear,yes,EJ/yr,,,
+Electricity|Generation by technology|Hydro,Secondary Energy|Electricity|Hydro,yes,EJ/yr,,,
+Electricity|Generation by technology|Geothermal,Secondary Energy|Electricity|Geothermal,yes,EJ/yr,,,
+Industry|Emissions by sub-sector|Iron and Steel,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Chemicals,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Cement,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Mining,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Refineries,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Waste,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Agriculture,,yes,Mt CO2e/yr,,,
+Industry|Emissions by sub-sector|Natural Gas,,yes,Mt CO2e/yr,,,
+Industry|Outputs|Total steel generated,,no,million metric tons/yr,,,
+Industry|Outputs|Total cement generated,,no,million metric tons/yr,,,
+Industry|Intensities|Emissions per ton of steel generated,,no,g CO2e/metric ton,,,
+Industry|Intensities|Emissions per ton of cement generated,,no,g CO2e/metric ton,,,
+Buildings|,,,,,,
+Transportation|,,,,,,
+Transportation|Energy use by freight/passenger|freight,Final Energy|Transportation|Freight,yes,EJ/yr,,,
+Transportation|Energy use by freight/passenger|passenger,Final Energy|Transportation|Passenger,yes,EJ/yr,,,
+Transportation|Energy use by fuel|Electricity,Final Energy|Transportation|Electricity,yes,EJ/yr,,,
+Transportation|Energy use by fuel|Gases,Final Energy|Transportation|Gases,yes,EJ/yr,,,
+Transportation|Energy use by fuel|Hydrogen,Final Energy|Transportation|Hydrogen,yes,EJ/yr,,,
+Transportation|Energy use by fuel|Liquids,Final Energy|Transportation|Liquids,yes,EJ/yr,,,
+"Agriculture, Land Use and Forestry|Land Cover|Cropland",Land Cover|Cropland,yes,million Ha/yr,,,
+"Agriculture, Land Use and Forestry|Land Cover|Forest",Land Cover|Forest,yes,million Ha/yr,,,
+"Agriculture, Land Use and Forestry|Land Cover|Pasture",Land Cover|Pasture,yes,million Ha/yr,,,
+"Agriculture, Land Use and Forestry|Land Cover|Other",{Land Cover} - {Land Cover|Cropland + Land Cover|Forest + Land Cover|Pasture},yes,million Ha/yr,,,
+Policy|Carbon price,Price|Carbon,no,US$2016/tCO2,US$2005/tCO2,1.23,price of carbon
+Technology|,,,,,,
+Financial|,,,,,,

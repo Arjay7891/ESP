@@ -1,0 +1,128 @@
+Model,Scenario,Region,ESP Slug,Unit of entry,2005,2010,2020,2030,2040,2050,2060,2070,2080,2090,2100
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|industry ,Mt CO2e/yr,54.55818397,53.87830969,68.53755707,57.19602643,59.97184596,61.51663676,61.08628515,61.03082227,62.32826274,62.72760131,61.01216924
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|transport,Mt CO2e/yr,42.02501633,50.63545582,71.83753199,78.24711374,87.88942342,97.72729307,108.7493148,124.7452631,144.6130054,164.466527,179.7328232
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|electricity,Mt CO2e/yr,30.74623101,43.09769086,72.70741361,57.76025636,46.95100142,38.2340761,18.44354167,2.353509165,-9.333945339,-18.60260249,-30.96924505
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|Non-electricity energy supply,Mt CO2e/yr,6.9936204,6.0456055,13.54758576,-11.63785406,-57.36527247,-96.28617896,-113.9007161,-131.2154312,-154.2807062,-176.7112895,-187.6059272
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|buildings ,Mt CO2e/yr,19.64676432,23.87305048,30.93320486,28.87713898,29.49575123,29.24176383,27.70370554,26.0030545,25.15166547,23.59351406,20.83906891
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|land use and forestry,Mt CO2e/yr,15.75513516,380.2708895,33.31020834,18.70858808,36.97581492,26.57530701,9.102467,4.177378212,0.834986262,-1.157030831,1.836312104
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|waste,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|CO2 by sector|,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|GHG Emissions by gas|CO2,Mt CO2e/yr,169.7249497,557.8009953,290.8734881,229.1512693,203.918548,157.0088978,111.1845976,87.09459612,69.31325983,54.31671842,44.84519135
+GCAM,GCAM_Paris,Argentina,Emissions|GHG Emissions by gas|CH4,Mt CH4/yr,4.771010477,5.469693755,5.827721652,6.065509313,6.669879436,7.143985383,7.409301257,7.589712895,7.779111632,8.079712212,7.900311905
+GCAM,GCAM_Paris,Argentina,Emissions|GHG Emissions by gas|N2O,kt N2O/yr,16.5841878,44.12286938,45.68105658,44.93395176,44.71620143,44.59248902,44.524559,44.59477273,44.73663629,44.8115645,44.64377737
+GCAM,GCAM_Paris,Argentina,Emissions|GHG Emissions by gas|F-gases,Mt CO2e/yr,0.73563812,0.79472445,6.097619169,6.811042808,8.55957782,10.23386753,11.69157626,13.65528663,15.51846335,16.82540077,17.49213003
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|PM2.5,thousand metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|PM10,thousand metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|BC,thousand metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|CO,million metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|OC,thousand metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|Nox,million metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|Sulfur,million metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Emissions|Pollutants|VOC,thousand metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|Global Warming,degree C,0.771346,0.853134,1.05007,1.26944,1.50647,1.74538,1.97381,2.18859,2.3927,2.58734,2.7823
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|Radiative Forcing,W/m^2,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|Total Sea-level Rise,cm,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|Annual Sea-level Rise,cm/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|CO2 concentration,ppm,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|Monetized health impacts,$US,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Climate and Health impacts|lives saved from reduced particle pollution,lives/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population,Millions,38.476,40.306,44.248,47.793,51.12,54.185,56.91,59.485,61.691,63.373,64.537
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by educational level|<fill in educational levels>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by educational level|<fill in educational levels>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by income|<fill in income levels>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by income|<fill in income levels>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by age|<fill in age groups>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Population by age|<fill in age groups>,Millions,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP PPP,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP MER,billion 2016 $US/yr,179.9451,241.19088,415.1316,542.1261,687.38214,858.39036,1073.76558,1394.0208,1840.1058,2382.5424,2952.441
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP PPP by sector|<fill in sectors>,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP PPP by sector|<fill in sectors>,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP PPP by sector|<fill in sectors>,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|GDP PPP by sector|<fill in sectors>,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Population and Economy|Net Trade Balance,billion 2016 $US/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Industry,EJ/yr,1.15985679,1.13421378,1.499315989,1.51707325,1.68496719,1.83327751,1.968855288,2.13558724,2.32527784,2.513202627,2.666665996
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Transport,EJ/yr,0.60017376,0.715059343,1.01694308,1.120389373,1.278930008,1.455441783,1.65608815,1.939140737,2.294752715,2.663552883,2.965583877
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Electricity,EJ/yr,0.308381633,0.371033707,0.592468578,0.770061221,0.975066531,1.193599994,1.445224751,1.754513047,2.069045948,2.369177219,2.62951689
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Agriculture,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Buildings,EJ/yr,0.531108,0.653403499,0.92458781,1.004814231,1.139795752,1.266821336,1.391350468,1.552091437,1.731822652,1.874742244,1.951314606
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Land Use and Forestry,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|Waste,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by sector|<fill in sectors>,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Coal w/o CCS,EJ/yr,0.0367949,0.0412321,0.112597,0.050955405,0.076670936,0.071341682,0.050389782,0.040672652,0.03773369,0.040003927,0.037179256
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Coal w/ CCS,EJ/yr,0,0,0,0.014554395,0.045758064,0.102640318,0.145487218,0.180430348,0.21874331,0.257238073,0.306880744
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Gas w/o CCS,EJ/yr,1.43436,1.56052,2.31294,2.07166241,2.18333365,2.36829081,2.248777859,2.20716648,2.368053996,2.561548683,3.132933042
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Gas w/ CCS,EJ/yr,0,0,0,0.24196759,0.47468635,0.67608919,0.905092141,1.06085352,1.042196004,1.092521317,1.147246958
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Oil w/o CCS,EJ/yr,1.126807,1.3443945,1.835225,1.6992101,1.3312321,0.9724812,0.8932205,0.9529762,1.0137914,1.0227489,0.689069204
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Oil w/ CCS,EJ/yr,0,0,0,0.1033469,0.1431519,0.1656318,0.2227085,0.2856948,0.2781536,0.2880771,0.3150608
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Solar,EJ/yr,0,0,0.00252195,0.014499668,0.030366298,0.045147521,0.063722546,0.087289616,0.120878996,0.149490407,0.173958595
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Wind,EJ/yr,0.00027,9.00E-05,0.008261888,0.043238797,0.097728995,0.170016802,0.278282108,0.413996449,0.592549534,0.745624786,0.876558547
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Biomass w/ CCS,EJ/yr,0,0,0,0.318255629,0.933273906,1.434073845,1.748428079,2.134279445,2.644741311,3.15745147,4.12093386
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Biomass w/o CCS,EJ/yr,0.0943942,0.0829623,0.133188677,0.264909676,0.401071957,0.515716361,0.547166948,0.534267933,0.5127219,0.513089325,0.538664748
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Nuclear,EJ/yr,0.0247428,0.0258156,0.0309459,0.04186705,0.05398287,0.07131263,0.10012431,0.13214687,0.16401323,0.1888738,0.2094792
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Geothermal,EJ/yr,0,0,0.00822875,0.03163842,0.05604871,0.07671164,0.09668554,0.11199678,0.130627,0.14000099,0.14000093
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Peat,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Energy|Energy use by fuel|Hydro,EJ/yr,0.122414,0.120913,0.126823,0.132732,0.140903,0.151337,0.16177,0.172204,0.182637,0.193071,0.198288
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Coal w/ CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Coal w/o CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Gas w/ CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Gas w/o CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Oil w/ CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Oil w/o CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Solar,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Wind,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Biomass w/ CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Biomass w/o CCS,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Nuclear,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity by technology|Geothermal,GW,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Coal w/ CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Coal w/o CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Gas w/ CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Gas w/o CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Oil w/ CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Oil w/o CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Solar,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Wind,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Biomass w/ CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Biomass w/o CCS,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Nuclear,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Capacity additions by technology|Geothermal,GW/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Coal w/ CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Coal w/o CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Gas w/ CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Gas w/o CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Oil w/ CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Oil w/o CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Solar,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Wind,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Biomass w/ CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Biomass w/o CCS,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Nuclear,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Hydro,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Electricity|Generation by technology|Geothermal,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Iron and Steel,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Chemicals,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Cement,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Mining,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Refineries,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Waste,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Agriculture,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Emissions by sub-sector|Natural Gas,Mt CO2e/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Outputs|Total steel generated,million metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Outputs|Total cement generated,million metric tons/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Intensities|Emissions per ton of steel generated,g CO2e/metric ton,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Industry|Intensities|Emissions per ton of cement generated,g CO2e/metric ton,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Buildings|,,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|,,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by freight/passenger|freight,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by freight/passenger|passenger,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by fuel|Electricity,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by fuel|Gases,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by fuel|Hydrogen,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Transportation|Energy use by fuel|Liquids,EJ/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,"Agriculture, Land Use and Forestry|Land Cover|Cropland",million Ha/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,"Agriculture, Land Use and Forestry|Land Cover|Forest",million Ha/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,"Agriculture, Land Use and Forestry|Land Cover|Pasture",million Ha/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,"Agriculture, Land Use and Forestry|Land Cover|Other",million Ha/yr,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Policy|Carbon price,US$2005/tCO2,0,0,0,12.04529236,30.44951182,44.12750727,55.19184545,70.18353818,83.66977636,95.88390545,113.7227891
+GCAM,GCAM_Paris,Argentina,Technology|,,,,,,,,,,,,
+GCAM,GCAM_Paris,Argentina,Financial|,,,,,,,,,,,,
